@@ -1,4 +1,4 @@
--- Enjoy the script -skibidsa0
+-- Enjoy the script, for uhh anyone checking the github page. -skibidsa0 on roblox
 
 local ScreenGuiDSP = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
