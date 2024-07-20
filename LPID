@@ -1,3 +1,5 @@
+-- Enjoy the script -skibidsa0
+
 local ScreenGuiDSP = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local Title = Instance.new("TextLabel")
